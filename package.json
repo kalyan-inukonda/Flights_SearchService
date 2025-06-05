@@ -1,0 +1,17 @@
+{
+  "name": "flightsandsearch",
+  "version": "1.0.0",
+  "description": "Micro service for handling FLIGHT CRUD",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon src/index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
