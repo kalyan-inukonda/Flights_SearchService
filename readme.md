@@ -22,3 +22,12 @@
     -search
         /models
         /controller
+
+
+
+
+##DB Design
+    -Airplane Table
+    -Flight
+    -Airport
+    -City
